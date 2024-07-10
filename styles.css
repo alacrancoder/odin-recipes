@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+    
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.main-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: monospace;
+    background-color: white;
+    border-radius: 15px;
+    margin: 25px 200px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.main-title h5 {
+    color: rgb(155, 155, 155);
+    text-decoration: underline;
+}
+
+.link-container {
+    background-color: white;
+    border-radius: 15px;
+    margin: 25px 300px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: left;
+    
+}
+
+li {
+    padding: 2px;
+}
+
+a { 
+    color: gray;
+    text-decoration: none;
+}
